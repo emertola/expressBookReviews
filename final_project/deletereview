@@ -1,0 +1,3 @@
+curl -X DELETE "http://localhost:5000/customer/auth/re
+view/1" -b cookies.txt
+Reviews for the ISBN 1 posted by the user testuser deleted.
